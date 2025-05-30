@@ -1,0 +1,15 @@
+/Users/kourtneyzobrist/Desktop/repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise
+/Users/kourtneyzobrist/Desktop/repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise.deps.json
+/Users/kourtneyzobrist/Desktop/repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise.runtimeconfig.json
+/Users/kourtneyzobrist/Desktop/repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise.dll
+/Users/kourtneyzobrist/Desktop/repos/Operators-Exercise/OperatorExercise/bin/Debug/net9.0/OperatorExercise.pdb
+/Users/kourtneyzobrist/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kourtneyzobrist/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.AssemblyInfoInputs.cache
+/Users/kourtneyzobrist/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.AssemblyInfo.cs
+/Users/kourtneyzobrist/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.csproj.CoreCompileInputs.cache
+/Users/kourtneyzobrist/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.sourcelink.json
+/Users/kourtneyzobrist/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.dll
+/Users/kourtneyzobrist/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/refint/OperatorExercise.dll
+/Users/kourtneyzobrist/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.pdb
+/Users/kourtneyzobrist/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/OperatorExercise.genruntimeconfig.cache
+/Users/kourtneyzobrist/Desktop/repos/Operators-Exercise/OperatorExercise/obj/Debug/net9.0/ref/OperatorExercise.dll
